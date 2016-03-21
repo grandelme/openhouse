@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$username = "openhouse";
-$password = "1234isnotarealpassword";
-$database = "openhouse_";
+$username = "";
+$password = "";
+$database = "";
 
 $conn = new mysqli($servername, $username, $password, $database);
 
